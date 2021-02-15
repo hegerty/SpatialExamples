@@ -1,7 +1,7 @@
 # Spatial Examples: Milwaukee Crime Mapping
 
 Here are three related examples for using R to analyze urban crime using basic spatial statistics.
-The data and code are in the included .zip file. 
+The data and code are in the included in the .zip file. 
 
 ***
 ## Videos for the examples:
