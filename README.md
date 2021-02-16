@@ -11,4 +11,4 @@ The data and code are in the included in the .zip file.
 [Applying Basic Spatial Statistics to Crime Data in R](https://youtu.be/-4zrbmpoQE0)                                                
 
 ***
-More information is available at www.scotthegerty.com  or https://bit.ly/2SlGXU0 
+More information is available at www.scotthegerty.com.
